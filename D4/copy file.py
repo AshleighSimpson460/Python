@@ -6,4 +6,3 @@ import shutil
 
 shutil.copyfile('c:\\Users\Ashleigh\\Desktop\\text.txt','c:\\Users\Ashleigh\\Desktop\\text_copy.txt')
 shutil.copy2('c:\\Users\Ashleigh\\Desktop\\text.txt','c:\\Users\Ashleigh\\Documents\\')
-

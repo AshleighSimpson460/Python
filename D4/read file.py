@@ -9,4 +9,4 @@ try:
     with open('c:\\Users\Ashleigh\\Desktop\\New Text Document.txt') as file: 
         print(file.read())
 except FileNotFoundError:
-    print("File not found")
+    print("File not found") 
