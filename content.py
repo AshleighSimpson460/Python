@@ -5,3 +5,5 @@
         # exception handling, file detection, read a file, write a file, move a file, copy a file
 # D5 : delete a file, modules, rock,paper,scissors, quiz game, object oriented programming, class variables, multilevel inheritence
         # multiple inheritence & method overriding
+# D6 : inheritance, multilevel inheritance, multiple inheritance, method overriding, method chaining, super function, abstract classes, 
+        # objects as arguments, duck typing, walrus operator, functions to variables, higher order functions, lambda functions, sort()
