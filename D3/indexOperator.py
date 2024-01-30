@@ -6,5 +6,5 @@ name = "harry potter"
 #     name = name.capitalize()
 
 first_name = name[:5].capitalize()
-last_name = name[5:].capitalize()
+last_name = name[6:].capitalize()
 print(first_name + " " + last_name)
